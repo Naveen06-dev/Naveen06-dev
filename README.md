@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React.js,ML**
 - 👯 I’m looking to collaborate on **Open Source / Web Dev / AI Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, APIs**
-- 📫 How to reach me: **[your email](naveenkvg8@gmail.com)**
+- 📫 How to reach me: [your email](naveenkvg8@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and automating boring tasks.
 
 ---
